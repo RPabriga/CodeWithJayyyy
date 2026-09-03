@@ -1,5 +1,10 @@
 
-## 🌐 Socials:
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTV2bXNkbjJoZHIxbjVhaTMyaDFhajJva3poaTVicG82eGVsdzV4aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E1w0yvMxBIv5M8WkL8/giphy.gif)
+
+##
+
+🌐 Socials:
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:louiejaycinco03@gmail.com) 
 
 # 💻 Tech Stack:
